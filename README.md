@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @NTDLS (AKA Josh Patterson).
+- 👀 I’m interested in C / C++ / C# and the Sea (mainly the Atlantic as I live in Charleston SC).
+- 🌱 I’m currently learning to create Change Requests and enter tickets for pretty much anything that needs to be done.
+- 💞️ I’m looking to collaborate on:
+  - https://github.com/NTDLS/TightWiki
+  - https://github.com/NTDLS/MemQueue 
+  - https://github.com/NTDLS/RougueQuest
+  - Any other repo Ive posted.
+- 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
+- My website is: http://networkdls.com/
