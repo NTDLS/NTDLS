@@ -4,9 +4,8 @@
 - 🌱 I'm currently learning to create Change Requests and enter tickets for pretty much anything that needs to be done.
 - 💞️ I'm looking to collaborate on:
   - https://github.com/NTDLS/TightWiki
-  - https://github.com/NTDLS.MemoryQueue
   - https://github.com/NTDLS/Katzebase
-  - https://github.com/NTDLS/NebulaSiege
+  - https://github.com/NTDLS/StrikeforceInfinity
   - Literally any other repo I've posted.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website is: http://networkdls.com/
