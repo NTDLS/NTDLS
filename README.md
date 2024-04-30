@@ -3,7 +3,6 @@
 - :nail_care: The line above was misleading, I also enjoy everything between assembly and SQL.
 - 🌱 I'm currently learning to create Change Requests and enter tickets for pretty much anything that needs to be done.
 - 💞️ I'm looking to collaborate on:
-  - https://github.com/NTDLS/StrikeforceInfinite.Public
   - https://github.com/NTDLS/TightWiki
   - https://github.com/NTDLS/NTDLS.Katzebase.Server
   - Literally any other repo I've posted.
