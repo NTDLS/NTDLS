@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @NTDLS (AKA Josh Patterson).
 - 👀 I'm interested in C / C++ / C# and the Sea (mainly the Atlantic as I live in Charleston SC).
-- :nail_care: The line above was misleading, I also enjoy everything between assembly and SQL.
+- :nail_care: The line above was misleading, I also enjoy everything between assembly and SQL, although both Java and VB can go :no_mouth: themselves.
 - 🌱 I'm currently learning to create Change Requests and enter tickets for pretty much anything that needs to be done.
 - 💞️ I'm looking to collaborate on:
   - https://github.com/NTDLS/TightWiki
