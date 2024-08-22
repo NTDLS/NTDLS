@@ -1,12 +1,11 @@
-- 👋 Hi, I'm @NTDLS (AKA Josh Patterson).
+- 👋 Hi, I'm @NTDLS (AKA Josh Patterson) and I'm living like Larry 🦞.
 - 👀 I'm interested in C / C++ / C# and the Sea (mainly the Atlantic as I live in Charleston SC).
   - 💅 The line above was misleading, I also enjoy everything between assembly and SQL!
   - 😆 The line above was also misleading as both Java and VB can go :no_mouth: themselves.
-- 🌱 I'm currently learning to create Change Requests and enter tickets for pretty much anything that needs to be done.
+- 🌱 I'm currently learning to create Change Requests and enter tickets for the most petty of tasks.
 - 💞️ I'm looking to collaborate on:
   - https://github.com/NTDLS/TightWiki
   - https://github.com/NTDLS/NTDLS.Katzebase.Server
   - Literally any other repo I've posted.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
-- My website is: http://networkdls.com/
-  
+- My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
