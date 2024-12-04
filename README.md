@@ -10,6 +10,6 @@
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
 
-![NTDLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![NTDLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
 [![NTDLS's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTDLS)](https://github.com/anuraghazra/github-readme-stats)
-[![NTDLS's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NTDLS)](https://github.com/anuraghazra/github-readme-stats)
+
