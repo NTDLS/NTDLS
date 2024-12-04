@@ -9,3 +9,5 @@
   - Literally any other repo I've posted.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls)](https://github.com/anuraghazra/github-readme-stats)
