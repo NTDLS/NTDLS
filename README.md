@@ -10,4 +10,4 @@
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
