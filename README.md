@@ -2,7 +2,7 @@
 - 👀 I'm interested in C / C++ / C# and the Sea (mainly the Atlantic as I live in Charleston SC).
   - 💅 The line above was misleading, I also enjoy everything between assembly and SQL!
   - 😆 The line above was also misleading as both Java and VB can go :no_mouth: themselves.
-- 🌱 I'm currently learning to create Change Requests and enter tickets for the most petty of tasks.
+- 🌱 I'm currently learning to create Change Requests for even the most simple tasks.
 - 💞️ I'm looking to collaborate on:
   - https://github.com/NTDLS/TightWiki
   - https://github.com/NTDLS/Katzebase
