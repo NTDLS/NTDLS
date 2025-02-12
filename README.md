@@ -8,7 +8,7 @@
   - https://github.com/NTDLS/Katzebase
   - https://github.com/NTDLS/CatMQ
   - https://github.com/NTDLS/KitKey
-  - Literally any other repo I've posted.
+  - Literally any other repo I've created.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
 
