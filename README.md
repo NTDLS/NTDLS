@@ -11,7 +11,8 @@
   - https://github.com/NTDLS/KitKey
   - Literally any other repo I've created.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
-- My website is: https://NetworkDLS.com/ (If it looks like it was built in the 90s... it was).
+- My website: https://NetworkDLS.com/
+  - All compiled releases are replicated here, so if you need an older version - this is where it will be. 📂
 
 ![NTDLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdls&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
 ![NTDLS's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTDLS)
