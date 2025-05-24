@@ -5,10 +5,10 @@
 - 🌱 I'm currently learning to create Change Requests for even the most simple tasks.
 - 💞️ I'm looking to collaborate on:
   - https://github.com/NTDLS/TightWiki
+  - https://github.com/NTDLS/NTDLS.ReliableMessaging
+  - https://github.com/NTDLS/CatMQ
   - https://github.com/NTDLS/Talkster
   - https://github.com/NTDLS/Katzebase
-  - https://github.com/NTDLS/CatMQ
-  - https://github.com/NTDLS/KitKey
   - Literally any other repo I've created.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
 - My website: https://NetworkDLS.com/
