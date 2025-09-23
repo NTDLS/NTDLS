@@ -17,3 +17,4 @@
 ![NTDLS's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTDLS&layout=compact&theme=radical)
 ![NTDLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTDLS&show_icons=true&theme=radical)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NTDLS&theme=github-compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NTDLS&theme=darkhub)
