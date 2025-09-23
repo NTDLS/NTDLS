@@ -7,7 +7,6 @@
   - https://github.com/NTDLS/TightWiki
   - https://github.com/NTDLS/NTDLS.ReliableMessaging
   - https://github.com/NTDLS/CatMQ
-  - https://github.com/NTDLS/Talkster
   - https://github.com/NTDLS/Katzebase
   - Literally any other repo I've created.
 - 📫 How to reach me: ✨ Josh@NTDLS.com ✨   <---Yea, I posted that. Sue me.
